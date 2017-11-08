@@ -16,6 +16,7 @@ public class TestPivotal {
      */
     public static void main(String[] args) {
         System.out.print("hhhhhh");
+        System.out.print("hhhhhh");
     }
     
 }
